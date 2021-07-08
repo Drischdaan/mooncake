@@ -3,7 +3,7 @@
 </p>
 
 # mooncake
-Component based app framework
+NestJs and Angular inspired application framework
 
 ## Support
 

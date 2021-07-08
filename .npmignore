@@ -1,0 +1,11 @@
+src/
+test/
+tsconfig.json
+jest.config.json
+*.js.map
+.eslintrc.js
+typings
+.vscode
+.prettierrc
+.gitignore
+yarn.lock
